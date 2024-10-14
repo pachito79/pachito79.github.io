@@ -1,0 +1,33 @@
+#contenedor {
+	background-color: #99FF00;
+	position: relative;
+	height: 557px;
+	width: 900px;
+	left: 100px;
+}
+
+#encabezado {
+    background-color: #FF3333;
+    position: absolute;
+    height: 120px;
+    width: 857px;
+    left: 20px;
+    top: 20px;
+}
+#contenido {
+    background-color: #FFCC66;
+    position: absolute;
+    height: 400px;
+    width: 593px;
+    left: 284px;
+    top: 142px;
+}
+
+#menu {
+    background-color: #511AF7;
+    position: absolute;
+    height: 400px;
+    width: 261px;
+    left: -1px;
+    top: 121px;
+}
